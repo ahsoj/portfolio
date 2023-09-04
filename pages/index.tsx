@@ -35,7 +35,7 @@ export default function Home() {
         <meta property="og:title" content="Eyasu | Full-Stack Web Developer" />
         <meta property="og:site_name" content="Eyasu Chaka Portfolio Website" />
         {/* must be edited */}
-        <meta property="og:url" content="https://www.rammaheshwari.com/" />
+        <meta property="og:url" content="https://eyasuc.vercel.app/" />
         <meta
           property="og:description"
           content="A Full-Stack Web Developer building the Frontend and Backend of Websites and Web Applications that leads to the success of the overall products."
