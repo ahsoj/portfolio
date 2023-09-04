@@ -43,7 +43,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://i.ibb.co/C8Wnkrt/pretty-snap-2022-3-29-16-11.png"
+          content="https://eyasuc.vercel.app/showcase.png"
         />
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
