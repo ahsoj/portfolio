@@ -151,6 +151,36 @@
   background-clip: content-box;
 }
 
+@-webkit-keyframes svg-text-anim {
+  40% {
+    stroke-dashoffset: 0;
+    fill: transparent;
+  }
+  60% {
+    stroke-dashoffset: 0;
+    fill: #ffffff;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill: #ffffff;
+  }
+}
+/* Most browsers */
+@keyframes svg-text-anim {
+  40% {
+    stroke-dashoffset: 0;
+    fill: transparent;
+  }
+  60% {
+    stroke-dashoffset: 0;
+    fill: #ffffff;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill: #ffffff;
+  }
+}
+
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {
