@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![]('./showcase.png')
+![](showcase.png)
 
 First, run the development server:
 
