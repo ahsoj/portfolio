@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eyasu | Full-Stack Web Developer</title>
+        <title>Home | Eyasu | Front-End Web Developer</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/image/logo.png" />
         <meta charSet="UTF-8" />
@@ -24,7 +24,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <meta
           name="description"
-          content="A Full-Stack Web Developer building the Frontend and Backend of Websites and Web Applications that leads to the success of the overall products."
+          content="A Front-End Web Developer building the Frontend and Backend of Websites and Web Applications that leads to the success of the overall products."
         />
         <meta name="author" content="Eyasu Chaka" />
         {/* <meta
@@ -32,13 +32,13 @@ export default function Home() {
           content="wX2xdkxqjrC4rA2EM-9bbaVpiEEFG8ae5azgeZDd-oo"
         /> */}
 
-        <meta property="og:title" content="Eyasu | Full-Stack Web Developer" />
+        <meta property="og:title" content="Eyasu | Front-End Web Developer" />
         <meta property="og:site_name" content="Eyasu Chaka Portfolio Website" />
         {/* must be edited */}
         <meta property="og:url" content="https://eyasuc.vercel.app/" />
         <meta
           property="og:description"
-          content="A Full-Stack Web Developer building the Frontend and Backend of Websites and Web Applications that leads to the success of the overall products."
+          content="A Front-End Web Developer building the Frontend and Backend of Websites and Web Applications that leads to the success of the overall products."
         />
         <meta property="og:type" content="website" />
         <meta

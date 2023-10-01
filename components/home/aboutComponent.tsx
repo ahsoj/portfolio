@@ -87,10 +87,10 @@ export const AboutComponent = () => {
               Why hire me for your next project ?
             </Typography>
             {/* <Typography variant="body1" color="inherit">
-              My name is Eyasu & i am a Full-stack Developer & UI/UX Designer
+              My name is Eyasu & i am a Front-End Developer & UI/UX Designer
             </Typography> */}
             <Typography variant="body1" color="inherit">
-              I am a <strong>Full-Stack Developer</strong> building the frontend
+              I am a <strong>Front-End Developer</strong> building the frontend
               and backend Websites and web applications that leads to the
               success of the overall product. Check out some of my work in the{' '}
               <a href="#projects-section">
